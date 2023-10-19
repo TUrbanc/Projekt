@@ -26,3 +26,5 @@ pretvorba ...> prenos
 prenos ...> sprememba
 
 @enduml
+
+![image](https://github.com/TUrbanc/Projekt/assets/147034095/d5a693a1-e6c8-4a46-9c82-383c5181eb63)
